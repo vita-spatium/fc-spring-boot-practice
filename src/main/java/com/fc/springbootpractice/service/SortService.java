@@ -1,7 +1,6 @@
 package com.fc.springbootpractice.service;
 
 import com.fc.springbootpractice.logic.Sort;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
